@@ -8,7 +8,7 @@ public class LongestPeak {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		// longest peak here is 0,10,6,5,-1,-3
+		
 		int[] array = { 1, 2, 3, 4, 5, 1 };
 		int peakLength = longestPeak(array);
 		System.out.println("Length of the longest peak = " + peakLength);
